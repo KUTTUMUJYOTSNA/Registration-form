@@ -1,0 +1,41 @@
+body{
+    margin-top: 90px;
+    margin-right: 10px;
+    margin-left: 150px;
+    min-height: 535px;
+    background: linear-gradient( #33ccff 0%, #ff00ff 100%);
+}
+html{
+    border-right:red 4px solid;
+     border-top-width:#ff00ff 4px solid;
+    
+}
+label{
+    color: black;
+}
+table
+{
+    height: 400px;
+    font-size: 25px;
+}
+h1
+input
+{
+    border-radius: 5px;
+    border-color:none;
+}
+.td
+{
+    font-size: 20;
+}
+.button1
+{
+    background-color: blue; 
+    border: none
+}
+.button2
+{
+    background-color: red; 
+    border: none;
+}
+

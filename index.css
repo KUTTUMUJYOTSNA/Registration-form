@@ -1,0 +1,27 @@
+body
+{
+    margin-top: 90px;
+    margin-right:50px ;
+    margin-left: 50px;
+    height:535px;
+    background: linear-gradient(to bottom, #daff33 0%, #00ffff 100%)
+
+}
+th
+{
+    background-color: green; 
+    color: white;
+}
+.id1
+{
+   width:90%;
+   height: 150px;
+}
+.id2
+{
+    width:40%;
+}
+.id3
+{
+    background-color: lightgreen;
+}
